@@ -21,7 +21,7 @@ config({
 
 app.use(
   cors({
-    origin: "https://merry-quokka-7de0eb.netlify.app",
+    origin: "https://lambent-taffy-2337e5.netlify.app",
     methods: ["POST", "GET", "PUT", "DELETE"],
     credentials: true,
   })
